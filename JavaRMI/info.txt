@@ -1,0 +1,7 @@
+RMI Remote Message Invocation 
+it allow Java Object in JVM call methods in other JVM 
+
+STUP: ig gateway allows customer to access resources 
+skelton : gatway which every request must passes thro
+
+
